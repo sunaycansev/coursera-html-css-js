@@ -1,1 +1,2 @@
-# coursera-html-css-js
+# Coursera-Html-Css-Js
+Johns Hopkins University
