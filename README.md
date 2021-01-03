@@ -6,7 +6,7 @@
 
 #
 
-This repository contains my solutions for Coursera cours which is HTML,CSS,Javascript for Web Developers by John Hopkins University.
+This repository contains my solutions for Coursera cours which is **HTML,CSS,Javascript for Web Developers by John Hopkins University.**
 
 #
 
