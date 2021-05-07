@@ -23,3 +23,4 @@ This repository contains my solutions for Coursera cours which is **HTML,CSS,Jav
 - [Module 3 Solution](https://sunaycansev.github.io/coursera-html-css-js/module3-solution/index.html)
 - [Module 4 Solution](https://sunaycansev.github.io/coursera-html-css-js/module4-solution/index.html)
 - [Module 5 Solution](https://sunaycansev.github.io/coursera-html-css-js/module5-solution/index.html)
+  ![Certificate](Certificate.png)
